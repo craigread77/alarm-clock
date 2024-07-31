@@ -1,3 +1,5 @@
+Note: This is a very old project, probably one of the first programs I wrote 10+ years ago
+
 # alarm-clock
 Usage is alarm.py HH MM SS
 
